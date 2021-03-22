@@ -1,0 +1,1 @@
+It is a website where one can be a sign up as a Teacher or as a Student and learn or teach different things.
